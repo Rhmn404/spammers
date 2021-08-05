@@ -1,6 +1,5 @@
-## I'AM RAHMANGANZ👋
+## HAI SAYA RAHMAN DAN DINA
 
-<img src="https://k.top4top.io/p_2036er7a20.jpg" width=250 height=250>
 
 ## INSTALL
 
