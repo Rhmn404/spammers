@@ -96,7 +96,7 @@ echo $purple "[==========================[>"
 echo "[00],EXIT"|lolcat
 echo $cyan "[==========================[>"
 echo
-read -p "@Mr.Demon_rhmZx-#" pil :
+read -p "@Mr.SkylrExploit-#" pil :
 
 #untuk script nya ya kak
 if [ $pil = 1 ]
