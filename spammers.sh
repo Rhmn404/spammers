@@ -1,5 +1,5 @@
 #!/system/xbin/bash
-#author : rahman ganz and sangka ganz
+#author : rahman ganz and ellen ganz
 #Youtube : https://bit.ly/AuliaRahmanOfficialYT
 
 
@@ -40,7 +40,7 @@ clear
 echo $blue "Selesai 100%........"
 sleep 1
 clear
-echo $yellow "I LOVE YOU"
+echo $yellow "I LOVE YOU AKU SAYANG KAMU"
 sleep 4
 clear
 figlet MR. TERSAKITI | lolcat
@@ -93,10 +93,12 @@ echo "[19],INSTALL SQLMAP"|lolcat
 echo $blue "[==========================[>"
 echo "[20],INSTALL PRANK"|lolcat
 echo $purple "[==========================[>"
-echo "[00],EXIT"|lolcat
+echo "[21],INSTALL GITHUB BOT"|lolcat
+echo $blue "[=============================[>"
+echo "[00],keluar"|lolcat
 echo $cyan "[==========================[>"
 echo
-read -p "@Mr.Demon_rhmZx-#" pil :
+read -p "@MR.Skylr-Xploit-#" pil :
 
 #untuk script nya ya kak
 if [ $pil = 1 ]
@@ -245,6 +247,15 @@ git clone https://github.com/siputra12/prank
 cd prank
 php call.php
 fi
+#update github wa bot mastah rahman
+if [ $pil = 21 ]
+then
+git clone https://github.com/Rhmn8/botauliav1
+cd botauliav1
+npm install
+npm start
+fi
+#terakhir buat keluar dari github
 if [ $pil = 00 ]
 then
 
@@ -258,10 +269,10 @@ sleep 2
 clear
 
 sleep 1
-echo $green "Thanks For Untuk #Cyber indonesia #Crew - Girl Mafia Team #DLL Team Cyber #Cyber Dark Sistem #Cyber Mr. Tersakiti"
+echo $green "Thanks you | CYBER DARK SISEM | MR. TERSAKITI | INDONESIA CYBER XPLOID | CSA TEAM | CYBER TEAM INDONESIA | UNEXPECTEDSKILL"
 sleep 1
-echo $yellow "Thanks For #3xploit #UnKnownz #InYourG00D #XpL3Z #DriXploit #TeamSkyDarkNet #Mr.Demon_rhmZx-#"
+echo $yellow "see you"
 sleep 1
-echo $red "Bye..."
+echo $red "bye..."
 sleep 1
 fi
