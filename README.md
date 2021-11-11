@@ -54,11 +54,11 @@
 
   <a href="https://bit.ly/AuliaRahmanOfficialYT">YouTube</a>
 <br></br>
-  <a href="https://wa.me/6285821676621">WhatsApp</a>
+  `[WhatsApp Me] (085821676621)`
 <br></br>
   <a href="https://github.com/Rhmn9">GITHUB ME</a>
 <br></br>
-  <a href="https://github.com/BLACKHATCYBERMAFIA">BLACK HAT CYBER MAFIA</a>
+  <a href="">LOVE YOU, AKU CINTA SAMA KAMU</a>
 
 </center>
 
