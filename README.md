@@ -54,7 +54,7 @@
 
   <a href="https://bit.ly/AuliaRahmanOfficialYT">YouTube</a>
 <br></br>
-  `[WhatsApp Me]` (085821676621)
+  [`WhatsApp Me`] (085821676621)
 <br></br>
   <a href="https://github.com/Rhmn9">GITHUB ME</a>
 <br></br>
