@@ -1,5 +1,5 @@
 #!/system/xbin/bash
-#author : rahman ganz and ellen ganz
+#author : rahman ganz
 #Youtube : https://bit.ly/AuliaRahmanOfficialYT
 
 
@@ -12,7 +12,7 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 
 clear
-figlet CYBER DARK SISTEM | lolcat
+figlet MR TERSAKITI | lolcat
 sleep 3
 echo "JANGAN LUPA SUBSCRIBE"
 echo "https://bit.ly/AuliaRahmanOfficialYT"
@@ -95,10 +95,12 @@ echo "[20],INSTALL PRANK"|lolcat
 echo $purple "[==========================[>"
 echo "[21],INSTALL GITHUB BOT"|lolcat
 echo $blue "[=============================[>"
+echo "[22],SPAM CALL"|lolcat
+echo $red "[=============================[>"
 echo "[00],keluar"|lolcat
 echo $cyan "[==========================[>"
 echo
-read -p "@MR.Skylr-Xploit-#" pil :
+read -p "@MR.Skyzi-xploit~#" pil :
 
 #untuk script nya ya kak
 if [ $pil = 1 ]
@@ -254,6 +256,13 @@ git clone https://github.com/Rhmn8/botauliav1
 cd botauliav1
 npm install
 npm start
+fi
+#punya by indonesia cyber xploid
+if [ $pil = 22 ]
+then
+git clone https://github.com/IndonesiaCyberXploid/spam-call
+cd spam-call
+python2 spam-call.py
 fi
 #terakhir buat keluar dari github
 if [ $pil = 00 ]
